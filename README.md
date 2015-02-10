@@ -9,4 +9,4 @@ Body Image Size
   Height: ()
   
 When editing the email be sure to update the pre-header row of text. Found within  the span tag:
-  <span style="display: none !important; font-size: 2px; color:#fff;">[Pre-Header Text]</span>
+  <--!span style="display: none !important; font-size: 2px; color:#fff;"-->[Pre-Header Text]</span>
